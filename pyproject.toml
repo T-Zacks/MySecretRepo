@@ -1,1 +1,10 @@
+[project]
+name = "calculator_app"
+version = "1.0.0"
+description = "A simple Python calculator CLI app"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+readme = "README.md"
+requires-python = ">=3.7"
 
+[tool.setuptools]
+packages = ["."]
